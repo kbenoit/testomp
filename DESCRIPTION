@@ -1,0 +1,14 @@
+Package: testomp
+Type: Package
+Title: Test breaking OMP
+Version: 0.1.0
+Authors@R: person("Kenneth", "Benoit", email = "kbenoit@lse.ac.uk", role = c("cre"))
+Description: Reproduce the OMP error.
+License: GPL-3
+Depends:
+    R (>= 3.1.0)
+Imports:
+    data.table (>= 1.9.6),
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
